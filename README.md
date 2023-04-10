@@ -12,4 +12,4 @@
 5. It should return message from server websocket handler as below.
    ![img_2.png](README_resources/img_2.png)
 6. Click on **_End Chat_**, and it will end the websocket connection so no further messages will be sent even if you click on **_Send_** button.
-   ![img.png](img.png)
+   ![img.png](README_resources/img_3.png)
